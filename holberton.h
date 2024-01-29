@@ -1,5 +1,5 @@
-#ifndef MAINH
-#define MAINH
+#ifndef HOLBERTONH
+#define HOLBERTONH
 
 #include <stdarg.h>
 int _putchar(char c);
@@ -27,4 +27,4 @@ typedef struct code_format
 	int (*f)(va_list);
 } code_f;
 
-#endif 
+#endif /* HOLBERTONH */
